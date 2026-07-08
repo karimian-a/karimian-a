@@ -2,7 +2,6 @@
 
 ## I'm a Frontend Developer focused on building clean and modern web applications.
 
-
 ### Currently learning:
 
 • JavaScript
@@ -20,3 +19,5 @@
 • HTML
 • CSS
 • JavaScript
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/ >
