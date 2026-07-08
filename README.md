@@ -14,10 +14,6 @@
 • Grow Kaiven
 • Become a professional Full Stack Developer
 
-### Tech Stack:
+<h3>Tech Stack:</h3>
 
-• HTML
-• CSS
-• JavaScript
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/ >
+<img src="https://skillicons.dev/icons?i=html,css,js" / >
