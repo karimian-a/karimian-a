@@ -18,4 +18,4 @@
 
 
 <h3>Tech Stack:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js,github" />
